@@ -11,13 +11,13 @@ This repository demonstrates how to configure and use [TypeORM](https://typeorm.
 
 JavaScript
 * [Part 1: Using Entities and Connecting to MariaDB with TypeORM](javascript/part1)
-* Part 2: Managing Entity Relationships - Coming Soon!
-* Part 3: Advanced Querying - Coming Soon!
+* Part 2: Managing Entity Relationships - **Coming Soon!**
+* Part 3: Advanced Querying - **Coming Soon!**
 
 TypeScript
-* Part 1: Using Entities and Connecting to MariaDB with TypeORM - Coming Soon!
-* Part 2: Managing Entity Relationships - Coming Soon!
-* Part 3: Advanced Querying - Coming Soon!
+* Part 1: Using Entities and Connecting to MariaDB with TypeORM - **Coming Soon!**
+* Part 2: Managing Entity Relationships - **Coming Soon!**
+* Part 3: Advanced Querying - **Coming Soon!**
 
 ## Get Started
 
