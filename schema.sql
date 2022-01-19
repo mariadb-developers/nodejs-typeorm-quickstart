@@ -1,0 +1,17 @@
+CREATE DATABASE company;
+
+USE company;
+
+CREATE TABLE employees (
+    id INT UNSIGNED NOT NULL AUTO_INCREMENT,
+    firstName VARCHAR(100) NOT NULL,
+    lastName VARCHAR(100) NOT NULL,
+    active BOOLEAN NOT NULL DEFAULT 0,
+    PRIMARY KEY (id)
+);
+
+CREATE TABLE departments (
+    id INT UNSIGNED NOT NULL AUTO_INCREMENT,
+    name VARCHAR(100) NOT NULL,
+    PRIMARY KEY (id)
+);

@@ -1,0 +1,31 @@
+{
+    "name": "nodejs-typeorm-quickstart",
+    "version": "1.0.0",
+    "description": "Example of how to use TypeORM with JavaScript (Node.js)",
+    "license": "MIT",
+    "readmeFilename": "README.md",
+    "author": {
+      "name": "MariaDB Developer Relations Team",
+      "email": "developers@mariadb.com"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/mariadb-developers/nodejs-typeorm-quickstart.git"
+    },
+    "bugs": {
+      "url": "https://github.com/mariadb-developers/nodejs-typeorm-quickstart/issues"
+    },
+    "tags": [
+      "mariadb",
+      "mariadb-nodejs",
+      "mariadb-typeorm",
+      "orm",
+      "javascript-orm",
+      "typeorm-sample",
+      "typeorm-example"
+    ],
+    "dependencies": {
+      "mysql": "^2.18.1",
+      "typeorm": "^0.2.41"
+    }
+  }
